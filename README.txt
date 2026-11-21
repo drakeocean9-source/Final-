@@ -6,7 +6,7 @@ Campus Café — a cozy campus coffee shop and student study space.
 
 GROUP MEMBERS AND ROLES
 1. Matheo Charles D Cedula — Head Barista & Lead Developer
-2. Jollann V. Delombar — Baker & Content Curator
+2. Jollan V. Delombar — Baker & Content Curator
 3. Andrew Martin M. Santiagudo — Cold Brew Specialist & QA Tester
 
 PAGES
